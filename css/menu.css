@@ -1,0 +1,19 @@
+header
+{
+    position: fixed;
+    width: 100%;
+}
+
+.ListaNav
+{
+    background-color: gold;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.ListaNav li
+{
+    font-size: 15px;
+    margin: 1rem;
+}
